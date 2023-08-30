@@ -1,0 +1,15 @@
+DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> Top 10 coisas </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   <img id="banner" src="banner.jpg">
+   <h1>Sobre O Top 10</h1>
+    <p>Localizada no Top 10 a <strong>Top 10</strong> Traz de tudo, para voce listar a usas coisas do mundo todo </p>
+    <p id="missao"><em>Nossa missão é: <strong>"Proporcionar listas de 10 coisas"</strong>.</em></p>
+    <p>Oferecemos as melhores Top 10 coisas de todas.</p>
+  </body>
+</html>
