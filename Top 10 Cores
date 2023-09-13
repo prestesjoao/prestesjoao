@@ -15,33 +15,33 @@ em strong {
 
 #missao {
   font-size: 30px;
-{
+}
 #banner {
    width: 100%;
-{
+}
 .itens  {
     font-style:  italic;
     font-size:   30px
-{
+}
 .beneficios  {
    background:  #ccbaba
    padding: 20px
-{
+}
 h2  {
     text-align: center;
-{
+}
 ul  {
   display; inline-block
   vertical-align:  top;
   width:  20%;
   margin-rigth; 15%;
-{
+}
 .imagembeneficios  {
   width:  50%;
-{
+}
 .titulo-principal  {
    padding-left:  20px;
-{
+}
 .titulo-centralizado {
   text-align: center
-{
+}
